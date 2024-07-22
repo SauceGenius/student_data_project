@@ -1,4 +1,7 @@
-# Description: Machine Learning algorithms for student performance prediction and classification analysis using XGBoost.
+# Author: Christopher Forget
+# Date: 2024-07-22
+
+# Description: Machine Learning algorithms for student performance prediction and regression analysis using XGBoost.
 # Input: Student_performance_data_.csv
 # Input description: The dataset contains the following columns: StudentID, Age, Gender, Ethnicity, ParentalEducation, StudyTimeWeekly, Absences, Tutoring, ParentalSupport, Extracurricular, Sports, Music, Volunteering, GPA, GradeClass
 
